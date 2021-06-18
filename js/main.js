@@ -5,6 +5,7 @@ const error = document.querySelector('.error');
 const artistName = document.querySelector('.artist-name');
 const lyricsTitle = document.querySelector('.lyrics-title')
 
+
 btnSearch.addEventListener("click", checkInputFields);
 
 
